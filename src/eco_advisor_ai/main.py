@@ -126,6 +126,6 @@ class EcoAdvisorApp:
         - Groq API
         - Plotly
         - Python
-        [GitHub Repository](https://github.com/yourusername/eco-advisor-ai)
+        [GitHub Repository](https://github.com/aitiwari/eco-advisor-ai)
         """)
 
