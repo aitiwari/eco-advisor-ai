@@ -1,7 +1,7 @@
  
 # 🌍 EcoAdvisor AI
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yourapp-url.streamlit.app/)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eco-advisor-ai.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
